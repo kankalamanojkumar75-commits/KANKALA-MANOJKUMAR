@@ -5,7 +5,7 @@
 ### 💬 Let's Connect!
 
 <p align="center">
-  <a href="mailto:kankalamanojkumar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/u/0/?to=kankalamanojkumar@gmail.com&fs=1&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/kankalamanojkumar75-commits"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/manojkumarkankala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
